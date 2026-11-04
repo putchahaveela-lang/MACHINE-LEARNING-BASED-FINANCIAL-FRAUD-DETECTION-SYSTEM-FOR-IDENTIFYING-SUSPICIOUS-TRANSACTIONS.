@@ -1,0 +1,2 @@
+# MACHINE-LEARNING-BASED-FINANCIAL-FRAUD-DETECTION-SYSTEM-FOR-IDENTIFYING-SUSPICIOUS-TRANSACTIONS.
+Financial institutions process millions of digital transactions every day, making it increasingly difficult to detect fraudulent activities using traditional rule-based systems. Fraudsters continuously adopt new techniques to bypass conventional security measures, leading to financial losses and operational risks
